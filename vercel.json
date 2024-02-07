@@ -2,7 +2,7 @@
   "crons": [
     {
       "path": "/api/cron/uploadChapter",
-      "schedule": "* * * * *"
+      "schedule": "0 0 * * *"
     }
   ]
 }
